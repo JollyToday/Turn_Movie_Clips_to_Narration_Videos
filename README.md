@@ -1,5 +1,4 @@
-# Turn-Movie-Clips-to-Narration-Videos
-![image](https://github.com/JollyToday/Turn-Movie-Clips-to-Narration-Videos/assets/128401459/6e387030-c28c-45f5-a77d-7a7405a0e000)
+# GhostCut Short Film Narration which can turn movie clips into narrations with one click！
 
 This AI tool cuts editing time from 1 hour to 3 minutes (95% faster!). It automatically extracts dialogue, identifies characters, generates commentary based on the plot, separates background noise, and aligns audio/video. Every aspect is powered by efficient AI and automation.
 
